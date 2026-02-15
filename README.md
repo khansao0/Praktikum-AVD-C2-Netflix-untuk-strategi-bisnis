@@ -1,2 +1,2 @@
 # Praktikum-AVD-C2-Netflix-untuk-strategi-bisnis
-https://www.kaggle.com/datasets/shivamb/netflix-shows
+Link Kaggle Dataset : https://www.kaggle.com/datasets/shivamb/netflix-shows
